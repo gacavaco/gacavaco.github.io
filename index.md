@@ -2,7 +2,7 @@
 title: Grace Cavaco
 description: The titles and descriptions can be changed.
 ---
-Life is confusing.  Let's automate some stuff together.
+### Life is confusing.  Let's automate some stuff together.
 
 ![My Picture](/pics/20131010_152539000_iOS.jpg)
 
