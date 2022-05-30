@@ -1,5 +1,6 @@
 ---
-layout: default
+title: Grace Cavaco
+description: The titles and descriptions can be changed.
 ---
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
