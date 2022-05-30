@@ -7,4 +7,4 @@ Here are some links that have nothing to do with time series - sounds like poor 
 *  [Practice Notebook (html)](PracticeNotebookUpload.html)
 *  [Practice Notebook (ipynb)](PracticeNotebookUpload.ipynb)  
 
-To return to the main page: [please click here](gacavaco.github.io)
+To return to the main page: [please click here](https://gacavaco.github.io)
